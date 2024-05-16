@@ -59,7 +59,7 @@ metadata/_edit_group_ = true
 scale = Vector2(0.75, 0.75)
 sprite_frames = SubResource("SpriteFrames_fl0fg")
 animation = &"mobWalk"
-frame_progress = 0.335157
+frame_progress = 0.987731
 script = ExtResource("8_sx7a8")
 
 [node name="MobCollision" type="CollisionShape2D" parent="."]
